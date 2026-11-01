@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "scanruler": {
+      "command": "npx",
+      "args": ["-y", "scanruler-mcp@latest"]
+    }
+  }
+}
