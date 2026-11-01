@@ -2,7 +2,7 @@
   "mcpServers": {
     "scanruler": {
       "command": "npx",
-      "args": ["-y", "scanruler-mcp@latest"]
+      "args": ["-y", "scanruler-mcp@0.6.1"]
     }
   }
 }
